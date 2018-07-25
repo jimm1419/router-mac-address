@@ -1,0 +1,26 @@
+{
+  "name": "router-mac-address",
+  "version": "1.0.0",
+  "description": "node module to get the mac address of the 'default gateway'",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "node out/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimm1419/router-mac-address.git"
+  },
+  "keywords": [
+    "\"mac",
+    "address\""
+  ],
+  "author": "Jim Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimm1419/router-mac-address/issues"
+  },
+  "homepage": "https://github.com/jimm1419/router-mac-address#readme",
+  "devDependencies": {
+    "@types/node": "^10.5.3"
+  }
+}

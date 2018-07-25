@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "out",
+    "removeComments": false,
+    "noImplicitReturns": true,
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "forceConsistentCasingInFileNames": true,
+    "types" : [ "node" ]
+  },
+  "files": [
+    "src/index.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "test",
+    "out"
+  ]
+}
